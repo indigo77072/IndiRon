@@ -1,2 +1,2 @@
 # IndiRon
-Indigo shows Ron how ot use Git Hub
+Indigo shows Ron how to use Git Hub
